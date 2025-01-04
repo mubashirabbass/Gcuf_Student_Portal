@@ -1,0 +1,96 @@
+{
+  "GeneralInformation": {
+      "InstallationPath"          : "C:\\Program Files (x86)\\M & M Soft solutions\\Gcuf_Student_portal_Unofficial\\",
+      "ApplicationVersion"        : "1.0",
+      "VisitWebsiteAfterUninstall": "ubashirabbas.my.canva.site",
+      "ApplicationName"           : "Gcuf_Student_portal_Unofficial"
+    },
+  "Folders"           : [
+      {
+        "Path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\M & M Soft solutions\\Gcuf_Student_portal_Unofficial\\"
+      }
+    ],
+  "Files"             : [
+      {
+        "Path": "C:\\Program Files (x86)\\M & M Soft solutions\\Gcuf_Student_portal_Unofficial\\Uninstall.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\M & M Soft solutions\\Gcuf_Student_portal_Unofficial\\gcuf-private-student-portal.webp"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\M & M Soft solutions\\Gcuf_Student_portal_Unofficial\\gcufportal.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\M & M Soft solutions\\Gcuf_Student_portal_Unofficial\\records.txt"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\M & M Soft solutions\\Gcuf_Student_portal_Unofficial\\students.txt"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\M & M Soft solutions\\Gcuf_Student_portal_Unofficial\\read me.rtf"
+      },
+      {
+        "Path": "C:\\Users\\Public\\Desktop\\Gcuf_Std_poryal.lnk"
+      },
+      {
+        "Path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\M & M Soft solutions\\Gcuf_Student_portal_Unofficial\\Gcuf_Std_Portal.lnk"
+      }
+    ],
+  "RegistryValues"    : [
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayIcon",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gcuf_Student_portal_Unofficial\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "UninstallString",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gcuf_Student_portal_Unofficial\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallDate",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gcuf_Student_portal_Unofficial\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallLocation",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gcuf_Student_portal_Unofficial\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "EstimatedSize",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gcuf_Student_portal_Unofficial\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoModify",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gcuf_Student_portal_Unofficial\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoRepair",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gcuf_Student_portal_Unofficial\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayName",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gcuf_Student_portal_Unofficial\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayVersion",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gcuf_Student_portal_Unofficial\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "HelpLink",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gcuf_Student_portal_Unofficial\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "Publisher",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gcuf_Student_portal_Unofficial\\"
+      }
+    ]
+}
